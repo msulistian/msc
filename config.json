@@ -1,0 +1,12 @@
+      “pools”: [
+{
+  “url”: “aeon.superpools.online:3334“, 
+  “user”: “WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX+ca2f6df7aebc4929a429ae9e305310dc526f055797f44f7a9fb291a9ce778c35”,
+“pass”: “x”,
+“rig-id”: null,
+“nicehash”: false,
+“keepalive”: false,
+“variant”: 1
+}
+]
+}
